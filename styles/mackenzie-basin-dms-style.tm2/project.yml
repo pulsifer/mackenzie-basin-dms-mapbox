@@ -1,0 +1,27 @@
+_prefs: 
+  mapid: tesera.9dbb295c
+  saveCenter: false
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -121.2012
+  - 62.1347
+  - 5
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 15
+minzoom: 0
+name: mackenzie-basin-dms-style
+source: "mapbox:///mapbox.mapbox-streets-v5,tesera.cd03235f"
+styles: 
+  - style.mss
+template: ''

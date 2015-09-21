@@ -1,0 +1,44 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: tesera.cd03235f
+  rev: s-5df88835
+  saveCenter: false
+attribution: ''
+center: 
+  - -124.0137
+  - 62.3394
+  - 5
+description: ''
+Layer: 
+  - id: mackenzie-sub-basin
+    Datasource: 
+      file: /Users/spenc_000/Documents/GitHub/mackenzie-basin-dms-mapbox/sources/features/MackenzieSubBasin.shp
+      type: shape
+    description: mackenzie-sub-basin
+    fields: 
+      BASIN: String
+      COUNT: Number
+      COUNT_SUBD: String
+      FIRST_SUBD: String
+      LAST_SUBDI: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: mackenzie-sub-basin-centroids
+    Datasource: 
+      file: /Users/spenc_000/Documents/GitHub/mackenzie-basin-dms-mapbox/sources/features/MackenzieSubBasin-centroids.shp
+      type: shape
+    description: mackenzie-sub-basin-centroids
+    fields: 
+      BASIN: String
+      COUNT: Number
+      COUNT_SUBD: String
+      FIRST_SUBD: String
+      LAST_SUBDI: String
+    properties: 
+      "buffer-size": 64
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+maxzoom: 13
+minzoom: 0
+name: mackenzie-basin-dms-source
