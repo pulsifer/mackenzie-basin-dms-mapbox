@@ -103,98 +103,98 @@
   <Rule>
     <MaxScaleDenominator>3000000</MaxScaleDenominator>
     <Filter>([BASIN] = 'Athabasca Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="4" stroke="#fa9aba" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="4" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500000</MaxScaleDenominator>
     <MinScaleDenominator>3000000</MinScaleDenominator>
     <Filter>([BASIN] = 'Athabasca Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="2" stroke="#fa9aba" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="2" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MinScaleDenominator>12500000</MinScaleDenominator>
     <Filter>([BASIN] = 'Athabasca Sub-basin')</Filter>
-    <LineSymbolizer stroke="#fa9aba" stroke-linejoin="round" />
+    <LineSymbolizer stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>3000000</MaxScaleDenominator>
     <Filter>([BASIN] = 'Peace Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="4" stroke="#f9be00" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="4" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500000</MaxScaleDenominator>
     <MinScaleDenominator>3000000</MinScaleDenominator>
     <Filter>([BASIN] = 'Peace Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="2" stroke="#f9be00" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="2" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MinScaleDenominator>12500000</MinScaleDenominator>
     <Filter>([BASIN] = 'Peace Sub-basin')</Filter>
-    <LineSymbolizer stroke="#f9be00" stroke-linejoin="round" />
+    <LineSymbolizer stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>3000000</MaxScaleDenominator>
     <Filter>([BASIN] = 'Great Slave Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="4" stroke="#33d9c2" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="4" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500000</MaxScaleDenominator>
     <MinScaleDenominator>3000000</MinScaleDenominator>
     <Filter>([BASIN] = 'Great Slave Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="2" stroke="#33d9c2" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="2" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MinScaleDenominator>12500000</MinScaleDenominator>
     <Filter>([BASIN] = 'Great Slave Sub-basin')</Filter>
-    <LineSymbolizer stroke="#33d9c2" stroke-linejoin="round" />
+    <LineSymbolizer stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>3000000</MaxScaleDenominator>
     <Filter>([BASIN] = 'Liard Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="4" stroke="#ea1d75" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="4" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500000</MaxScaleDenominator>
     <MinScaleDenominator>3000000</MinScaleDenominator>
     <Filter>([BASIN] = 'Liard Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="2" stroke="#ea1d75" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="2" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MinScaleDenominator>12500000</MinScaleDenominator>
     <Filter>([BASIN] = 'Liard Sub-basin')</Filter>
-    <LineSymbolizer stroke="#ea1d75" stroke-linejoin="round" />
+    <LineSymbolizer stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>3000000</MaxScaleDenominator>
     <Filter>([BASIN] = 'Peel and Northwest Arctic Ocean Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="4" stroke="#94d500" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="4" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500000</MaxScaleDenominator>
     <MinScaleDenominator>3000000</MinScaleDenominator>
     <Filter>([BASIN] = 'Peel and Northwest Arctic Ocean Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="2" stroke="#94d500" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="2" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MinScaleDenominator>12500000</MinScaleDenominator>
     <Filter>([BASIN] = 'Peel and Northwest Arctic Ocean Sub-basin')</Filter>
-    <LineSymbolizer stroke="#94d500" stroke-linejoin="round" />
+    <LineSymbolizer stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>3000000</MaxScaleDenominator>
     <Filter>([BASIN] = 'Mackenzie Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="4" stroke="#8bdc64" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="4" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>12500000</MaxScaleDenominator>
     <MinScaleDenominator>3000000</MinScaleDenominator>
     <Filter>([BASIN] = 'Mackenzie Sub-basin')</Filter>
-    <LineSymbolizer stroke-width="2" stroke="#8bdc64" stroke-linejoin="round" />
+    <LineSymbolizer stroke-width="2" stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MinScaleDenominator>12500000</MinScaleDenominator>
     <Filter>([BASIN] = 'Mackenzie Sub-basin')</Filter>
-    <LineSymbolizer stroke="#8bdc64" stroke-linejoin="round" />
+    <LineSymbolizer stroke="#00b3db" stroke-linejoin="round" />
   </Rule>
   <Rule>
     <MaxScaleDenominator>3000000</MaxScaleDenominator>
@@ -233,34 +233,34 @@
 <Style name="mackenzie-sub-basin-centroids" filter-mode="first">
   <Rule>
     <Filter>([BASIN] = 'Athabasca Sub-basin')</Filter>
-    <TextSymbolizer fill="#fa9aba" wrap-width="60" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
+    <TextSymbolizer fill="#00b3db" wrap-width="60" halo-radius="0.6" halo-fill="#ffffff" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <Filter>([BASIN] = 'Peace Sub-basin')</Filter>
-    <TextSymbolizer fill="#f9be00" wrap-width="60" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
+    <TextSymbolizer fill="#00b3db" wrap-width="60" halo-radius="0.6" halo-fill="#ffffff" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <Filter>([BASIN] = 'Great Slave Sub-basin')</Filter>
-    <TextSymbolizer fill="#33d9c2" wrap-width="60" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
+    <TextSymbolizer fill="#00b3db" wrap-width="60" halo-radius="0.6" halo-fill="#ffffff" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <Filter>([BASIN] = 'Liard Sub-basin')</Filter>
-    <TextSymbolizer fill="#ea1d75" wrap-width="60" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
+    <TextSymbolizer fill="#00b3db" wrap-width="60" halo-radius="0.6" halo-fill="#ffffff" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <Filter>([BASIN] = 'Peel and Northwest Arctic Ocean Sub-basin')</Filter>
-    <TextSymbolizer fill="#94d500" wrap-width="60" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
+    <TextSymbolizer fill="#00b3db" wrap-width="60" halo-radius="0.6" halo-fill="#ffffff" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <Filter>([BASIN] = 'Mackenzie Sub-basin')</Filter>
-    <TextSymbolizer fill="#8bdc64" wrap-width="60" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
+    <TextSymbolizer fill="#00b3db" wrap-width="60" halo-radius="0.6" halo-fill="#ffffff" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
   </Rule>
   <Rule>
     <Filter>([BASIN] = 'Great Bear Sub-basin')</Filter>
-    <TextSymbolizer fill="#00b3db" wrap-width="60" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
+    <TextSymbolizer fill="#00b3db" wrap-width="60" halo-radius="0.6" halo-fill="#ffffff" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
   </Rule>
   <Rule>
-    <TextSymbolizer wrap-width="60" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
+    <TextSymbolizer wrap-width="60" halo-radius="0.6" halo-fill="#ffffff" face-name="Source Sans Pro Regular" size="14" ><![CDATA[[BASIN]]]></TextSymbolizer>
   </Rule>
 </Style>
 <Layer name="mackenzie-sub-basin-centroids"

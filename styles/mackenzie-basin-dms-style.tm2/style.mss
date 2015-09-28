@@ -13,6 +13,7 @@
 @yellow: #f9be00;
 @aqua: #33d9c2;
 @pink2: #fa9aba;
+@greyfade: #343a3b;
 
 // MacKenzie Basin //
 
@@ -21,12 +22,12 @@
   line-join: round;
 //feature specific style properties  
   [BASIN="Great Bear Sub-basin"] {line-color: @primary;}
-  [BASIN="Mackenzie Sub-basin"] {line-color: @green1;}
-  [BASIN="Peel and Northwest Arctic Ocean Sub-basin"] {line-color: @green2;}
-  [BASIN="Liard Sub-basin"] {line-color: @pink;}
-  [BASIN="Great Slave Sub-basin"] {line-color: @aqua;}
-  [BASIN="Peace Sub-basin"] {line-color: @yellow;}
-  [BASIN="Athabasca Sub-basin"] {line-color: @pink2;}
+  [BASIN="Mackenzie Sub-basin"] {line-color: @primary;}
+  [BASIN="Peel and Northwest Arctic Ocean Sub-basin"] {line-color: @primary;}
+  [BASIN="Liard Sub-basin"] {line-color: @primary;}
+  [BASIN="Great Slave Sub-basin"] {line-color: @primary;}
+  [BASIN="Peace Sub-basin"] {line-color: @primary;}
+  [BASIN="Athabasca Sub-basin"] {line-color: @primary;}
 //zoom specific style properties
   [zoom>=6] {
     line-width: 2;
@@ -37,15 +38,17 @@
  #mackenzie-sub-basin-centroids{
   //layer style properties  
   text-wrap-width: 60;
+  text-halo-radius: 0.6;
+  text-halo-fill: #ffffff;
   text-face-name: @sans;
   text-name: [BASIN];
   text-size: 14;
   //feature specific style properties  
   [BASIN="Great Bear Sub-basin"] {text-fill: @primary;}
-  [BASIN="Mackenzie Sub-basin"] {text-fill: @green1;}
-  [BASIN="Peel and Northwest Arctic Ocean Sub-basin"] {text-fill: @green2;}
-  [BASIN="Liard Sub-basin"] {text-fill: @pink;}
-  [BASIN="Great Slave Sub-basin"] {text-fill: @aqua;}
-  [BASIN="Peace Sub-basin"] {text-fill: @yellow;}
-  [BASIN="Athabasca Sub-basin"] {text-fill: @pink2;}
+  [BASIN="Mackenzie Sub-basin"] {text-fill: @primary;}
+  [BASIN="Peel and Northwest Arctic Ocean Sub-basin"] {text-fill: @primary;}
+  [BASIN="Liard Sub-basin"] {text-fill: @primary;}
+  [BASIN="Great Slave Sub-basin"] {text-fill: @primary;}
+  [BASIN="Peace Sub-basin"] {text-fill: @primary;}
+  [BASIN="Athabasca Sub-basin"] {text-fill: @primary;}
     }
