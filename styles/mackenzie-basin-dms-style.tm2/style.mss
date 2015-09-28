@@ -39,6 +39,7 @@
   text-wrap-width: 60;
   text-face-name: @sans;
   text-name: [BASIN];
+  text-size: 14;
   //feature specific style properties  
   [BASIN="Great Bear Sub-basin"] {text-fill: @primary;}
   [BASIN="Mackenzie Sub-basin"] {text-fill: @green1;}
