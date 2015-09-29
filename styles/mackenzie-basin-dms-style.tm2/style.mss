@@ -29,20 +29,17 @@
   [BASIN="Peace Sub-basin"] {line-color: @primary;}
   [BASIN="Athabasca Sub-basin"] {line-color: @primary;}
 //zoom specific style properties
-  [zoom>=6] {
-    line-width: 2;
-            }
-  [zoom>=8] { 
-    line-width: 4; }
+  [zoom>=6] {line-width: 3;}
+  [zoom>=8] {line-width: 6;}
   }
  #mackenzie-sub-basin-centroids{
   //layer style properties  
   text-wrap-width: 60;
   text-halo-radius: 0.6;
   text-halo-fill: #ffffff;
-  text-face-name: @sans;
+  text-face-name: @sans_bold;
   text-name: [BASIN];
-  text-size: 14;
+  text-size: 16;
   //feature specific style properties  
   [BASIN="Great Bear Sub-basin"] {text-fill: @primary;}
   [BASIN="Mackenzie Sub-basin"] {text-fill: @primary;}
@@ -51,4 +48,10 @@
   [BASIN="Great Slave Sub-basin"] {text-fill: @primary;}
   [BASIN="Peace Sub-basin"] {text-fill: @primary;}
   [BASIN="Athabasca Sub-basin"] {text-fill: @primary;}
+ //zoom specific style properties
+  [zoom=3] {text-size: 8;}  
+  [zoom=4] {text-size: 11;}  
+  [zoom=5] {text-size: 16;}  
+  [zoom=6] {text-size: 18;}  
+  [zoom>6]{text-size: 28;}    
     }
