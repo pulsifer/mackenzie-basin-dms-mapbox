@@ -6,7 +6,7 @@
 @sans_bold: 'Source Sans Pro Semibold';
 
 // Common Colors //
-@primary: #00b3db;
+@primary: #343a3b;
 @pink: #ea1d75;
 @green1: #8bdc64;
 @green2: #94d500;
